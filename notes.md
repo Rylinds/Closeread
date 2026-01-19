@@ -38,7 +38,7 @@ A trigger is an element that activates a sticky in a closeread document. How it 
 - identify the point in the doc where you want the sticky to be activated
 - at that point, reference the sticky's identifier - just replace the cr- prefix with @
 
-So `cr-identifier` becomes `@identifier`
+So `cr-identifier` becomes `@cr-identifier`
 
 ```
 :::{.cr-section}
